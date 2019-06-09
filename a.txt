@@ -1,1 +1,2 @@
 this is the file i have made changes in the commit one.
+this is feature 1 mistake.
