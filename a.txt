@@ -1,2 +1,3 @@
 this is the file i have made changes in the commit one.
-adding feature 3 in master branch
+feature 2
+feature 3
