@@ -2,4 +2,5 @@ this is the file i have made changes in the commit one.
 feature 2
 feature 3
 new  commit
+new commit locally feature final.
 
